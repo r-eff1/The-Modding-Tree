@@ -1,4 +1,4 @@
-let projectTMT = {
+let modInfo = {
 	name: "Eternal Tree",
 	author: "ref",
 	pointsName: "points",
