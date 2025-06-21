@@ -1,5 +1,5 @@
 let someStupidProjectTMT = {
-	name: "Eternal Tree",
+	name: "The Eternal Tree",
 	author: "nobody",
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
