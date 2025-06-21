@@ -1,5 +1,5 @@
-let modInfo = {
-	name: "The ??? Tree",
+let someStupidProjectTMT = {
+	name: "Eternal Tree",
 	author: "nobody",
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
