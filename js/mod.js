@@ -1,4 +1,4 @@
-let someStupidProjectTMT = {
+let projectTMT = {
 	name: "Eternal Tree",
 	author: "ref",
 	pointsName: "points",
