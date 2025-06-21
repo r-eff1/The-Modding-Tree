@@ -1,6 +1,6 @@
 let someStupidProjectTMT = {
-	name: "The Eternal Tree",
-	author: "nobody",
+	name: "Eternal Tree",
+	author: "ref",
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
 
